@@ -1,4 +1,4 @@
-GB/T 7714—2015 BibTeX Style
+# GB/T 7714—2015 BibTeX Style
 
 Credits goes to [gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style).
 
